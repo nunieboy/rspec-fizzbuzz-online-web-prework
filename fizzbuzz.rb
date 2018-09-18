@@ -10,6 +10,5 @@ def fizzbuzz(int)
     "Buzz"
   elsif int % 3 == 0
     "Fizz"
-    binding.pry
   end
 end
